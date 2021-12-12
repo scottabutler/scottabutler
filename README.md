@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Scott, a senior software developer based in Melbourne, curently working at [PageUp](https://www.pageuppeople.com).
+
+Check out my [LinkedIn](https://www.linkedin.com/in/scottbutler2005) and some of my [side projects](https://scottabutler.github.io/home/).
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scottabutler&count_private=true&show_icons=true&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117&hide_border=true&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **scottabutler/scottabutler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
