@@ -1,3 +1,4 @@
+![Logo collage](https://github.com/scottabutler/scottabutler/blob/main/Logo%20collage.png)
 ### Hi there! 👋
 
 I'm Scott, a senior software developer based in Melbourne, currently working at [PageUp](https://www.pageuppeople.com).
