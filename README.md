@@ -14,6 +14,10 @@ As for tools and tech, I enjoy using C#, ASP.NET MVC and Razor in tandem with UI
 
 More recently though, I've also enjoyed working with TypeScript and React, as it allows us to do a bunch of things client-side a lot more easily than a traditional MVC stack (such as partial page updates, client-side routing and so on).
 
+I've also spent a lot of time working with AWS, leveraging many of their services to create software that scales. Scalability is a key part of the SaaS model and in my experience, the more we can lean on managed services like DynamoDB, SQS and Lambda (for lighter workloads) and Application Load Balancers, Autoscaling Groups and Fargate (for heavier tasks), the less time we spend on maintenance effort.
+
+AWS services I have experience with include: EC2, ECS, ECR, IAM, KMS, SSM, S3, DynamoDB, CloudWatch, SNS, SQS, Route53 and Lambda.
+
 ### Practices
 
 I actively promote immutability and validation practices within my team. Having spent some time learning about functional programming, it showed me that even in languages like C#, using practices like immutability can make your code so much more resilient and reliable. That said, being pragmatic about this is key to getting people on board with this practice. Even small things like using constructors to initialise your POCOs and making their properties read-only is a really simple way to get started.
