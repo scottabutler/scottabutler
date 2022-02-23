@@ -1,4 +1,3 @@
-![Logo collage](https://github.com/scottabutler/scottabutler/blob/main/Logo%20collage.png)
 ### Hi there! 👋
 
 I'm Scott, a senior software developer based in Melbourne, currently working at [PageUp](https://www.pageuppeople.com).
@@ -18,6 +17,8 @@ More recently though, I've also enjoyed working with TypeScript and React, as it
 I've also spent a lot of time working with AWS, leveraging many of their services to create software that scales. Scalability is a key part of the SaaS model and in my experience, the more we can lean on managed services like DynamoDB, SQS and Lambda (for lighter workloads) and Application Load Balancers, Autoscaling Groups and Fargate (for heavier tasks), the less time we spend on maintenance effort.
 
 AWS services I have experience with include: EC2, ECS, ECR, IAM, KMS, SSM, S3, DynamoDB, CloudWatch, SNS, SQS, Route53 and Lambda.
+
+![Logo collage](https://github.com/scottabutler/scottabutler/blob/main/Logo%20collage.png)
 
 ### Practices
 
